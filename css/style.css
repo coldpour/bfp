@@ -510,6 +510,19 @@
 				line-height: 1em;
 			}
 
+    .js-video {
+      height: 0;
+      padding-top: 25px;
+      padding-bottom: 67.5%;
+      margin-bottom: 10px;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .js-video.vimeo {
+      padding-top: 0;
+    }
+
 /* Image */
 
 	.image {
