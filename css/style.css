@@ -1347,3 +1347,8 @@
 					margin-left: 0;
 					padding: 0;
 				}
+
+/* expandable stuff */                
+    .more_text {
+      display: none;
+    }
