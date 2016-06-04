@@ -1,0 +1,3 @@
+#!/bin/bash
+
+scp index.html saintpa8@just76.justhost.com:public_html/bfp/
