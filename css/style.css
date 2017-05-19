@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
 /*
 	Photon by HTML5 UP
@@ -518,7 +518,7 @@
       position: relative;
       overflow: hidden;
     }
-    
+
     .js-video.vimeo {
       padding-top: 0;
     }
@@ -1348,7 +1348,7 @@
 					padding: 0;
 				}
 
-/* expandable stuff */                
+/* expandable stuff */
     .more_text {
       display: none;
     }
